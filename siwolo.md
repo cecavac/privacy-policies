@@ -1,41 +1,133 @@
-**Terms & Conditions**  
+# Privacy Policy
 
-These terms and conditions apply to the Siwolo app (hereby referred to as "Application") for mobile devices that was created by Dragan Cecavac (hereby referred to as "Service Provider") as a Free service.
+**App name: Simple Workout Log (Siwolo)**
+**Effective date: 2026-03-23**
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+---
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+## 1. Overview
 
-This Application does not collect, store, or transmit personally identifiable data to the Service Provider or third parties. However, it may collect and share anonymized analytics data for development purposes, such as crash reports, device information, and approximate location (e.g., country). This data is automatically collected by Firebase and Crashlytics. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your phone, as these actions remove software restrictions imposed by your device’s official operating system. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+This Privacy Policy describes how the SiWoLo - Simple Workout Log app ("Application") handles your data — what is stored, why, how long it is kept, and how you can delete it. By using the Application, you agree to the practices described here.
 
-Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+---
 
-*   [Google Play Services](https://policies.google.com/terms)
-*   [Firebase](https://firebase.google.com/support/privacy)
-*   [Crashlytics](https://firebase.google.com/terms/crashlytics)
+## 2. Data Collected and Stored
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+### 2a. Workout Data (User-Entered, Local Only)
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+The Application is a local workout tracker. All data you enter is stored **exclusively on your device** and is never transmitted to the developer or any third party. The developer has no access to this data at any time.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. The Service Provider is not responsible if you are unable to access the Application due to a depleted battery.
+Data you may enter and store includes:
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider is not liable for any direct or indirect loss resulting from reliance on the application's functionality, including but not limited to inaccuracies, service disruptions, or third-party data dependencies.
+- Custom exercises and their settings (e.g. seat height, equipment adjustments)
+- Workout logs including metrics such as weight lifted, repetitions, sets, or any custom values you define
+- Training history and progress records
 
-The Service Provider is not responsible for any loss of workout data due to app uninstallation, device failure, or user actions. Users are advised to regularly back up their data using the export feature.
+**There is no cloud sync, no account registration, and no server-side storage.** Your workout data never leaves your device unless you explicitly export it yourself using the in-app export feature.
 
-The Service Provider may update the application as needed. It is currently available according to your operating system’s requirements. If these requirements change, you may need to update the application to continue using it. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider reserves the right to discontinue the application at any time. If feasible, they will attempt to notify users in advance. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+### 2b. Automatically Collected Analytics Data
 
-**Changes to These Terms and Conditions**
+The Application uses Firebase and Crashlytics (third-party services by Google) which automatically collect limited, anonymized diagnostic data to help improve app stability. This may include:
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+- Crash reports and error diagnostics
+- Device type and operating system version
+- Approximate location (country-level only)
 
-These terms and conditions are effective as of 2025-03-22
+This data is anonymized and cannot be used to identify you personally.
 
-**Contact Us**
+### 2c. Data the Developer Does NOT Collect
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at celecavac.help@gmail.com.
+- Your name, email address, or any personally identifiable information
+- Precise GPS or location data
+- Health records or medical data
+- Payment information
 
-* * *
+---
 
-This Terms and Conditions page was generated with the help of [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## 3. Purpose of Data Use
+
+| Data Type | Purpose |
+|-----------|---------|
+| Workout data (user-entered) | Stored locally to provide core app functionality — exercise tracking and progress logging |
+| Anonymized analytics (Firebase / Crashlytics) | App stability monitoring, crash diagnostics, and performance improvements |
+
+---
+
+## 4. Data Retention
+
+**Locally stored workout data** is retained on your device for as long as the Application is installed. The developer does not hold any copy of this data and has no influence over its retention.
+
+**Anonymized analytics data** collected by Firebase and Crashlytics is retained in accordance with Google's data retention policies — generally up to **90 days**. See [Firebase Privacy and Security](https://firebase.google.com/support/privacy) for details.
+
+---
+
+## 5. Data Deletion
+
+### Deleting your workout data
+
+Because all workout data is stored locally on your device, you are in full control of it. To delete your data:
+
+1. **Use the in-app export feature** to back up anything you want to keep, then delete records individually within the app.
+2. **Uninstall the Application** — this permanently and completely removes all locally stored app data from your device.
+
+> ⚠️ Uninstalling the app will delete all data permanently. There is no automatic backup or recovery, so use the export feature before uninstalling if you wish to keep your data.
+
+The developer has no copy of your workout data and cannot delete or recover it on your behalf.
+
+### Deleting anonymized analytics data
+
+For requests related to anonymized crash or analytics data collected via Firebase or Crashlytics, please contact the developer at **celecavac.help@gmail.com** or submit a request directly through Google's privacy portals.
+
+---
+
+## 6. Data Sharing
+
+The developer does **not** sell, trade, or share your workout data with any third parties.
+
+Anonymized, non-identifiable diagnostic data may be processed by Firebase and Crashlytics as described in Section 2b. This data cannot be linked back to you as an individual.
+
+---
+
+## 7. Third-Party Services
+
+The Application integrates the following third-party services, each with their own terms and privacy policies:
+
+- [Google Play Services – Terms of Service](https://policies.google.com/terms)
+- [Firebase – Privacy and Security](https://firebase.google.com/support/privacy)
+- [Crashlytics – Terms of Service](https://firebase.google.com/terms/crashlytics)
+
+---
+
+## 8. Security
+
+The developer takes reasonable steps to protect the integrity of the Application. You are advised to:
+
+- Keep your device secured with a PIN, password, or biometric lock.
+- Avoid jailbreaking or rooting your device, as doing so may compromise security features and cause the Application to malfunction.
+
+The developer cannot be held responsible for security issues resulting from jailbreaking, rooting, or other modifications to your device's operating system.
+
+---
+
+## 9. Internet Connectivity
+
+Some features of the Application (such as crash reporting) require an active internet connection. The developer is not responsible if certain features are unavailable due to lack of Wi-Fi or mobile data. If you use the Application on a mobile network, your carrier's standard data charges may apply.
+
+---
+
+## 10. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically. Changes will be posted on this page with a revised effective date. Continued use of the Application after changes are posted constitutes your acceptance of the updated policy.
+
+---
+
+## 11. Contact Us
+
+For any questions, concerns, or data-related requests regarding this Privacy Policy, please contact:
+
+**Dragan Cecavac**
+Email: celecavac.help@gmail.com
+
+---
+
+*This Privacy Policy applies solely to the Simple Workout Log (Siwolo) Application and does not extend to any linked third-party services.*
