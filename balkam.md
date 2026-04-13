@@ -1,6 +1,6 @@
 # Privacy Policy — BalKam
 
-**Effective Date:** 2026-04-07
+**Effective Date:** 2026-04-13
 
 ---
 
@@ -8,7 +8,11 @@
 
 This Privacy Policy describes how Dragan Cecavac ("Service Provider", "we", "us", or "our") collects, uses, and discloses information in connection with your use of the BalKam mobile application ("Application").
 
-BalKam is a public-information tool that allows users to view live and periodically refreshed camera streams from border crossings in Bosnia and Herzegovina, Croatia, Serbia, Montenegro, and North Macedonia, along with map-based location pins for each crossing. By using the Application, you agree to the practices described in this Privacy Policy.
+BalKam is an independent public-information tool that allows users to view live and periodically refreshed camera streams from border crossings in Bosnia and Herzegovina, Croatia, Serbia, Montenegro, and North Macedonia, along with map-based location pins for each crossing.
+
+**Disclaimer**: The Application does not represent, and is not affiliated with, endorsed by, or an official representative of any government entity.
+
+By using the Application, you agree to the practices described in this Privacy Policy.
 
 ---
 
@@ -44,11 +48,11 @@ BalKam displays camera streams and images sourced exclusively from the following
 
 | Country | Source |
 |---|---|
-| Serbia | amss.org.rs, mup.gov.rs |
-| Bosnia and Herzegovina | ams-rs.com, bihamk.ba |
-| Croatia | hak.hr |
-| Montenegro | kamere.mup.gov.me |
-| North Macedonia | roads.org.mk |
+| Bosnia and Herzegovina | https://www.ams-rs.com, https://www.bihamk.ba |
+| Croatia | https://www.hak.hr |
+| Montenegro | http://kamere.mup.gov.me |
+| North Macedonia | https://www.roads.org.mk |
+| Serbia | https://www.amss.org.rs, https://www.mup.gov.rs |
 
 **The Service Provider does not operate, control, host, or own any of these camera feeds.** All video streams and images are fetched directly from the above providers' public infrastructure and displayed within the Application. The Service Provider has no ability to modify, filter, archive, or guarantee the availability or content of these feeds.
 
@@ -140,4 +144,4 @@ Email: [celecavac.help@gmail.com](mailto:celecavac.help@gmail.com)
 
 ---
 
-*This Privacy Policy was last updated on 2026-04-07.*
+*This Privacy Policy was last updated on 2026-04-13.*
